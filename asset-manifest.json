@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/tully/static/css/main.ee53158a.chunk.css",
-    "main.js": "/tully/static/js/main.05357d06.chunk.js",
-    "main.js.map": "/tully/static/js/main.05357d06.chunk.js.map",
+    "main.js": "/tully/static/js/main.9b2d449b.chunk.js",
+    "main.js.map": "/tully/static/js/main.9b2d449b.chunk.js.map",
     "runtime-main.js": "/tully/static/js/runtime-main.9f657db4.js",
     "runtime-main.js.map": "/tully/static/js/runtime-main.9f657db4.js.map",
     "static/css/2.4be38407.chunk.css": "/tully/static/css/2.4be38407.chunk.css",
-    "static/js/2.4465ab88.chunk.js": "/tully/static/js/2.4465ab88.chunk.js",
-    "static/js/2.4465ab88.chunk.js.map": "/tully/static/js/2.4465ab88.chunk.js.map",
+    "static/js/2.be53d546.chunk.js": "/tully/static/js/2.be53d546.chunk.js",
+    "static/js/2.be53d546.chunk.js.map": "/tully/static/js/2.be53d546.chunk.js.map",
     "static/js/3.b4a9e36e.chunk.js": "/tully/static/js/3.b4a9e36e.chunk.js",
     "static/js/3.b4a9e36e.chunk.js.map": "/tully/static/js/3.b4a9e36e.chunk.js.map",
     "index.html": "/tully/index.html",
     "static/css/2.4be38407.chunk.css.map": "/tully/static/css/2.4be38407.chunk.css.map",
     "static/css/main.ee53158a.chunk.css.map": "/tully/static/css/main.ee53158a.chunk.css.map",
-    "static/js/2.4465ab88.chunk.js.LICENSE.txt": "/tully/static/js/2.4465ab88.chunk.js.LICENSE.txt",
+    "static/js/2.be53d546.chunk.js.LICENSE.txt": "/tully/static/js/2.be53d546.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/tully/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.9f657db4.js",
     "static/css/2.4be38407.chunk.css",
-    "static/js/2.4465ab88.chunk.js",
+    "static/js/2.be53d546.chunk.js",
     "static/css/main.ee53158a.chunk.css",
-    "static/js/main.05357d06.chunk.js"
+    "static/js/main.9b2d449b.chunk.js"
   ]
 }
